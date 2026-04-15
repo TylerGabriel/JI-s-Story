@@ -140,3 +140,12 @@ Sub-Setting 02 (Daylight):
 Lighting Source: Bright, flat overcast daylight or direct sunlight diffused by the parasol fabric, creating a soft red tint on the subjects' skin.
 Background Detail: Clear view of the residential street, parked scooters, and a nearby utility pole with tangled wires for urban realism.
 Props: Two takeaway iced coffee cups with plastic straws, a colorful pouch of fruit juice, and a smartphone resting face-up on the table.
+
+[Stage F: Person 1's Cozy Bedroom]
+Main Set: Bed Area.
+Structural Assets: Wooden-framed double bed, dark-stained headboard, small wooden bedside nightstand.
+Sub-Setting 01 (Cuddle & Consoletion):
+
+Lighting: Single amber-toned (2700K) glass-shaded bedside lamp on the nightstand, casting a localized, warm, intimate glow. Deep, velvety shadows dominate the surrounding area (a "healing void").
+
+Props: Thick, grey winter goose-down duvet with flannel sheets, multiple soft pillows, Person 1's wristwatch on the nightstand, a soft fabric rug. Background: Blurred desk with books and a closet.
