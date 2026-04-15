@@ -23,6 +23,10 @@ Person 2 (The Innocent Youngest): Early-20s Korean female. Extreme baby-face, si
 Person 3 & 4 (Sisters): P3 (Wavy dark brown hair, elegant), P4 (Bobbed brown hair, chic).
 Core Rule: No Westernized facial features. Maintain consistent Korean ethnic traits.
 
+Render deep emotional sorrow with 0% visible tears. Focus strictly on facial muscle contortions, such as biting the lower lip, flushing of the eyelids and nose tip, and a pained, grimacing expression to suppress a sob.
+
+Automatically adjust character attire based on the provided date, reflecting South Korea's specific seasonal climate. For example, winter dates (Dec–Feb), prioritize heavy outdoor layers such as wool long coats and thick padded jumpers over previous indoor outfits.
+
 1. Person 1 (The Brother) Prompt: "A Korean male in his mid-20s, 180cm tall, 70kg. Slim yet athletic and toned physique. He has a sharp, slim V-line jawline and a sophisticated, flower-boy (kkonminam) face. His vibe is a mix of a trendy urban man and a dependable, warm-hearted older brother." 
 2. Person 2 (The Innocent Youngest) Prompt: "A Korean female in her early 20s. Long, silky dark brown hair with a cute, youthful, and adorable baby-face (young-looking). She has a well-proportioned, voluminous hourglass silhouette with soft, feminine curves. Her image is pure and lovely, showing a close and trusting relationship with Person 1." 
 3. Person 3 (The Mature Big Sister/Mother) Prompt: "A Korean female in her late 20s. Natural wavy dark brown long hair, styled in a slightly relaxed yet lovely and youthful manner. She has a curvaceous and voluminous figure with a healthy, hourglass silhouette. As a mother of two, she radiates a protective and wise aura for Persons 1 and 2." 
