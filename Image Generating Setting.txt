@@ -149,3 +149,10 @@ Sub-Setting 01 (Cuddle & Consoletion):
 Lighting: Single amber-toned (2700K) glass-shaded bedside lamp on the nightstand, casting a localized, warm, intimate glow. Deep, velvety shadows dominate the surrounding area (a "healing void").
 
 Props: Thick, grey winter goose-down duvet with flannel sheets, multiple soft pillows, Person 1's wristwatch on the nightstand, a soft fabric rug. Background: Blurred desk with books and a closet.
+
+[Stage G: Private Hot Spring Spa]
+Main Set: Indoor/Outdoor Luxury Spa Pool.
+Structural Assets: Natural stone pool edges, steaming hot water, wooden deck floor.
+Sub-Setting 01 (Night Spa):
+Lighting: Dim, indirect warm yellow LED (2700K) underwater and around the stone edges. Steam rising from the water creating a soft, misty atmosphere.
+Props: Floating wooden tray with tea or drinks, folded white towels, luxury bath robes draped nearby.
